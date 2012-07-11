@@ -1,0 +1,7 @@
+name: GeneralCmds
+version: 1.0a
+main: me.Delocaz.GeneralCmds.GeneralCmds
+author: Delocaz
+commands:
+    ping:
+        aliases: [saypong]
